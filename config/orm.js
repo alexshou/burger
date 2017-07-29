@@ -17,4 +17,4 @@ function updateOne(){
 
 }
 
-module.exports = orm;
+module.exports = ;
